@@ -1,8 +1,9 @@
 # Skilaverkefni 3
 ## Flow chart fyrir hanoi
-image here
+![](hanoi.png)
 ## Flækjustig hanoi
-image and answer here
+#### 2<sup>n</sup> - 1
+![](hanoicomplex.PNG)
 ## Flækjustig
 ### O(n)
 Gott dæmi um O(n) er Stalin Sort. Stalin sort er röðunar algrím sem fer í gegnum lista á lengd n, ber saman 2 stök í einu. Ef hægra stakið er stærra en vinstra stakið þá er það tekið úr listanum. Þú endar alltaf með raðaðan lista en ekki með 100% upplýsinga nákvæmni.
